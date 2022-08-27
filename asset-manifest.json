@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/intellectualDarknet/trial/static/css/main.221c4a28.css",
+    "main.js": "/intellectualDarknet/trial/static/js/main.46d1e878.js",
+    "index.html": "/intellectualDarknet/trial/index.html",
+    "main.221c4a28.css.map": "/intellectualDarknet/trial/static/css/main.221c4a28.css.map",
+    "main.46d1e878.js.map": "/intellectualDarknet/trial/static/js/main.46d1e878.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.221c4a28.css",
+    "static/js/main.46d1e878.js"
+  ]
+}
